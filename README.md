@@ -20,10 +20,8 @@ A web-based task management system with separate dashboards for **Admin** and **
 1. Clone or download the repository.
 2. Import the `database.sql` file into MySQL.
 3. Configure database connection in `config.php`.
-4. Run using local server (e.g., XAMPP or WAMP).
+4. Run using local server ( XAMPP ).
 
-## 📷 Screenshots
-*(You can upload screenshots and add them here later)*
 
 ## 📌 Status
 ✅ Completed (Frontend & Backend)
